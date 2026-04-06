@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-/*int main(void)
+int main(void)
 {
     const int score = 35;
     if(score < 60)
@@ -17,9 +17,9 @@
     }
 
 
-}*/
+}
 
-/*int main(void)
+int main(void)
 {
     char c ;
     gets("c");
@@ -37,7 +37,7 @@
             printf("其他");
     }
 
-}*/
+}
 
 /*int main(void){
     for (int i = 0; i < 10; ++i) {
